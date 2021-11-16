@@ -1,0 +1,7 @@
+function encryptText() {
+
+}
+
+function encryptFile() {
+
+}
