@@ -1,7 +1,0 @@
-function encryptText() {
-
-}
-
-function encryptFile() {
-
-}

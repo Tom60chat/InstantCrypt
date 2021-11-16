@@ -1,0 +1,16 @@
+{
+	"Step 1": "Étape 1",
+	"Enter the encryption password": "Entrez le mot de passe de cryptage",
+	"Encryption password": "Mot de passe de cryptage",
+	"Step 2": "Étape 2",
+	"Choose a option and click on Encrypt to download the encrypted version or Decrypt to download the decrypted version":
+        "Choisissez une option et cliquez sur Crypter pour télécharger la version cryptée ou Décrypter pour télécharger la version décryptée",
+    "Text Mode": "Mode texte",
+	"Encrypt Text": "Chiffrer le texte",
+	"Decrypt Text": "Déchiffrer le texte",
+	"or": "ou",
+	"File Mode": "Mode fichier",
+	"Encrypt File": "Chiffrer le fichier",
+	"Decrypt File": "Déchiffrer le fichier",
+	"Take a look at the source code on ": "Jetez un œil au code source sur "
+}
